@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    height:100vh;
+    width: 100vw;
+}
+.blue {
+    background-color: blue;
+    color: blue;
+}
+
+.red {
+    background-color: red;
+    color: red;
+}
+
+.purple {
+    background-color: #A020F0;
+    color: #A020F0;
+}
+
+.pink {
+    background-color: hotpink;
+    color: hotpink;
+}
+
+.green {
+    background-color: green;
+    color: green;
+}
+
+.yellow {
+    background-color: yellow;
+    color: yellow;
+}
+
+.orange {
+    background-color: #FF7518;
+    color: #FF7518;
+}
